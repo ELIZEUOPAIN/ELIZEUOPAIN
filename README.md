@@ -15,4 +15,4 @@
 
 ![Snake animation](https://github.com/ELIZEUOPAIN/ELIZEUOPAIN/blob/output/github-contribution-grid-snake.svg)
 
-https://bmc.link/elizeudasdores
+<a href="https://www.buymeacoffee.com/elizeudasdores"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=elizeudasdores&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
