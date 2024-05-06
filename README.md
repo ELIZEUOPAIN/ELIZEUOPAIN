@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
   [![Typing SVG](
-https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+nmae+is+Elizeu+Das+Dores;Be+Wellcome!+:%29)](https://git.io/typing-svg)
+https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Elizeu+Das+Dores;Be+Wellcome!+:%29)](https://git.io/typing-svg)
   ![Anurag's GitHub stats](
 https://github-readme-stats.vercel.app/api?username=ELIZEUOPAIN&show_icons=true&theme=tokyonight)
 <div align="center">
@@ -13,21 +13,18 @@ alt="Elizeu Das Dores Top Languages" />
 
   ### Main skills:
 
-![CyberSecurity](
-https://img.shields.io/badge/-Cybersecurity-0D1117?style=for-the-badge&logo=Cybersecurity&logoColor=white)&nbsp;
-![Python](
-https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)&nbsp;
-![Digital Ocean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)&nbsp;
-![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
-![eCPPTv2](https://miro.medium.com/v2/resize:fit:618/format:webp/1*Ra-KXCGe3Als-o2Q_IUm4g.png)&nbsp;
+![CyberSecurity](https://img.shields.io/badge/-Cybersecurity-0D1117?style=for-the-badge&logo=Cybersecurity&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![#/bin/bash](https://img.shields.io/badge/-%23!%2Fbin%2Fbash-1f425f.svg)&nbsp;
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
 
-### Tools:
 
-  ### Studying in this moment:
-
+### Main certifications:
+[![eCPPTv2](https://miro.medium.com/v2/resize:fit:618/format:webp/1*Ra-KXCGe3Als-o2Q_IUm4g.png)](https://certs.ine.com/d913661c-e7bc-4772-82d8-643d48d92100#gs.8fief2)&nbsp;
+![eWPTXv2](https://miro.medium.com/v2/resize:fit:309/1*Sdc7GZUGE9n4Ix4Zx7I9qA.png?icon=github)&nbsp;
+![CAP](https://secops.group/wp-content/uploads/2023/01/cert-stamp-2.png)&nbsp;
 
 <br>
 <div align="center">
