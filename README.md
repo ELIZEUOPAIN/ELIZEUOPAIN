@@ -15,11 +15,10 @@ alt="Elizeu Das Dores Top Languages" />
 
 ![CyberSecurity](https://img.shields.io/badge/-Cybersecurity-0D1117?style=for-the-badge&logo=Cybersecurity&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![#/bin/bash](https://img.shields.io/badge/-%23!%2Fbin%2Fbash-1f425f.svg)&nbsp;
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 ### Main certifications:
 [![eCPPTv2](https://miro.medium.com/v2/resize:fit:618/format:webp/1*Ra-KXCGe3Als-o2Q_IUm4g.png)](https://certs.ine.com/d913661c-e7bc-4772-82d8-643d48d92100#gs.8fief2)&nbsp;
