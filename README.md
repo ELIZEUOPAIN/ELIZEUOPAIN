@@ -15,6 +15,8 @@ alt="Elizeu Das Dores Top Languages" />
 
 ![CyberSecurity](
 https://img.shields.io/badge/-Cybersecurity-0D1117?style=for-the-badge&logo=Cybersecurity&labelColor=0D1117)&nbsp;
+![Python](
+https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 
   ### Tools:
 
