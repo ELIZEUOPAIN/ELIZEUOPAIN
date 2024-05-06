@@ -22,7 +22,7 @@ https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labe
 ![Digital Ocean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
+![eCPPTv2](https://miro.medium.com/v2/resize:fit:618/format:webp/1*Ra-KXCGe3Als-o2Q_IUm4g.png)
 
 ### Tools:
 
@@ -34,7 +34,6 @@ https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labe
 <p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ELIZEUOPAIN}/count.svg"/></p> 
 </div>
-![Sparkline](https://stars.medv.io/Naereen/badges.svg)
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
