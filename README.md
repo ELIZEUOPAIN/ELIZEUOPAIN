@@ -27,7 +27,7 @@ alt="Elizeu Das Dores Top Languages" />
 [![eCPPTv2](https://miro.medium.com/v2/resize:fit:618/format:webp/1*Ra-KXCGe3Als-o2Q_IUm4g.png)](https://certs.ine.com/d913661c-e7bc-4772-82d8-643d48d92100#gs.8fief2)&nbsp;
 ![eWPTXv2](https://miro.medium.com/v2/resize:fit:309/1*Sdc7GZUGE9n4Ix4Zx7I9qA.png?icon=github)&nbsp;
 ![CAP](https://secops.group/wp-content/uploads/2023/01/cert-stamp-2.png)
-![C|SCU](https://www.labanepal.com/assets/cpanel/media/certification_new/1544682301cscu.png)
+![C|SCU](https://certwizard.com/sites/default/files/2020-04/EC-Council-CSCU-certwizard.png)
 
 ### Social media:
 
