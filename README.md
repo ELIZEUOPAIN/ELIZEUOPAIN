@@ -26,7 +26,7 @@ alt="Elizeu Das Dores Top Languages" />
 ### Main certifications:
 [![eCPPTv2](https://miro.medium.com/v2/resize:fit:618/format:webp/1*Ra-KXCGe3Als-o2Q_IUm4g.png)](https://certs.ine.com/d913661c-e7bc-4772-82d8-643d48d92100#gs.8fief2)&nbsp;
 [![eWPTXv2](https://miro.medium.com/v2/resize:fit:309/1*Sdc7GZUGE9n4Ix4Zx7I9qA.png?icon=github)](https://certs.ine.com/b90d1e0a-498c-4a03-bdf1-288655dd7706#gs.cli206)&nbsp;
-[![CAPenX](https://secops.group/wp-content/uploads/2024/03/cert-stamp-capenx-expert.png)](https://candidate.speedexam.net/certificate.aspx?SSTATE=am4131EniU8ntjp4bO5mXSnJqCjvKhG9ILCdleIPlbmZcndLu7XPzMOCcd+W904Zqr9PEtEq267pN9jsGXvNK08Krm5m/6UJ6BPFjB4SQGA=)&nbsp;
+[![OSCP]([https://miro.medium.com/v2/resize:fit:672/1*lfTmuRQGQENiZOi7SjmheA.jpeg)](https://credentials.offsec.com/c5f9e858-9000-473b-8c0b-7d659f240151#acc.P0d7WJeD)&nbsp;
 [![C|EH](https://certwizard.com/sites/default/files/2020-04/CEH-certwizard.png)](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=066umhKHY08zuQejTsw6HB3G55lIIj8lQ8W8zIenaKw=)&nbsp;
 
 ### Social media:
