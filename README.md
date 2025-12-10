@@ -69,7 +69,7 @@ alt="Elizeu Das Dores Top Languages" />
 <br>
 <div align="center">
 <p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ELIZEUOPAIN}/count.svg"/></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/ELIZEUOPAIN/count.svg" alt="Key:: Visitor's Count" /></p> 
 </div>
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
