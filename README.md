@@ -34,7 +34,7 @@ alt="Elizeu Das Dores Top Languages" />
   </a>
   &nbsp;&nbsp;
   <a href="https://credentials.offsec.com/c5f9e858-9000-473b-8c0b-7d659f240151#acc.P0d7WJeD">
-    <img src="https://www.offsec.com/_astro/OSCP-plus.BZHuApYA_Ztlntl.svg" alt="OSCP" height="100">
+    <img src="https://templates.images.credential.net/17303012308215729956811213381538.png" alt="OSCP" height="100">
   </a>
   &nbsp;&nbsp;
   <a href="https://credentials.offsec.com/fc9c27a1-12fb-4818-9644-00143035558f#acc.wEP1aRLy">
@@ -46,7 +46,7 @@ alt="Elizeu Das Dores Top Languages" />
   </a>
   &nbsp;&nbsp;
   <a href="https://secops.group/certificate-validation/">
-    <img src="https://pentestingexams.com/wp-content/uploads/2024/03/cert-stamp-capenx-expert.png" alt="CAPenX - The SecOps Group" height="100">
+    <img src="https://pentestingexams.com/wp-content/uploads/2024/03/cert-stamp-capenx-expert.webp" alt="CAPenX - The SecOps Group" height="100">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credential.net/fc4667c7-f465-44bd-8476-b46c43ee6873#acc.YE0v2hLq">
